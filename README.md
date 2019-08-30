@@ -1,0 +1,2 @@
+# kanekoCommon
+初めてのGitHub
